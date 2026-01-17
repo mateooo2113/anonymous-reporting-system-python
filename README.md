@@ -19,3 +19,9 @@ to review reports, detect false reports, and display basic statistics.
 ## Purpose
 Academic project created to practice programming logic, conditional structures,
 loops, input validation, and basic data management.
+
+## Future Improvements
+- Store reports persistently using JSON
+- Improve false report detection logic
+- Modularize the system using functions
+- Enhance admin authentication
